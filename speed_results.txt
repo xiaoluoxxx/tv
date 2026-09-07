@@ -1,0 +1,9 @@
+CCTV11,http://1.197.250.53:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+东方卫视,http://1.197.250.53:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+四川卫视,http://1.197.250.53:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+山东卫视,http://1.197.250.53:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+武术世界,http://1.197.250.53:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+江西卫视,http://1.197.250.53:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+河北卫视,http://1.197.250.53:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+湖南卫视,http://1.197.250.53:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+金鹰卡通,http://1.197.250.53:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
