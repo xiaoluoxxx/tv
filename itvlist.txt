@@ -1,3 +1,7 @@
 央视频道,#genre#
+CCTV9,http://124.228.160.190:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 卫视频道,#genre#
+山西卫视,http://125.93.74.27:9002/tsfile/live/0118_2.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视,http://124.228.160.190:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 其他频道,#genre#
+湖南都市,http://124.228.160.190:9901/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
